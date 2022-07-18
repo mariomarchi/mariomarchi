@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/mariomarchi"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=mariomarchi&theme=tokyonight&show_icons=true)"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomarchi&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=mariomarchi&theme=dracula&show_icons=true)"/>
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomarchi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
