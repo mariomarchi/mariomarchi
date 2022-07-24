@@ -15,7 +15,8 @@
   <img align="center" alt="Logotipo HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>        
   <img align="center" alt="Logotipo CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="center" alt="Logotipo JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Logotipo Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img align="center" alt="Logotipo WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"/>
+  <img align="center" alt="Logotipo Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
   <img align="center" alt="Logotipo Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="right" alt="Mario-pic" height="150" style="border-radius: 500px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQEmbbn87zadpg/profile-displayphoto-shrink_800_800/0/1657225368976?e=1662595200&v=beta&t=jwSILNgBYtl4TAbuoT3HeBbaCvWqto3HSCrqm3Gesag">
 </div>
